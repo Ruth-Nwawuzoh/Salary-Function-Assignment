@@ -34,6 +34,10 @@ This project processes employee salary data using Python and R to perform data a
 - Ensure the file Employee Profile.zip is in the same directory as `Ruth_Nwawuzoh_BAN6420_Module_2_Assignment_R_Code.R`.
 - Open `Ruth_Nwawuzoh_BAN6420_Module_2_Assignment_R_Code.R` in RStudio or any R environment.
 - Run the script to unzip and display the content of the exported file.
+  
+Notes
+-If the 'Total.csv' file is missing, replace it with your own salary dataset and update the file path in the script.
+-Processed data will be saved in a zipped folder named Employee Profile.zip.
 
 ## Contact
-If you encounter any issues, please contact me or raise an issue in the repository.
+-If you encounter any issues, please contact me or raise an issue in the repository.
