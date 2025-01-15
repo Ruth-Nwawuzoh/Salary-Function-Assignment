@@ -1,6 +1,4 @@
-# Salary-Function-Assignment
-Module 2 Assignment: Salary Function
-
+# Module 2 Assignment: Salary Function 
 
 ## Overview
 This project processes employee salary data using Python and R to perform data analysis and file handling tasks. The implementation includes importing data, searching for employee details, exporting data to CSV, zipping files, and unzipping files in R.
@@ -39,5 +37,3 @@ This project processes employee salary data using Python and R to perform data a
 
 ## Contact
 If you encounter any issues, please contact me or raise an issue in the repository.
-
-[README.md](https://github.com/user-attachments/files/18430856/README.md)
