@@ -12,10 +12,11 @@ This project processes employee salary data using Python and R to perform data a
 6. **R Script for Unzipping**: Unzips the compressed folder and displays the contents in R.
 
 ## Files in This Repository
-1. **`Ruth_Nwawuzoh_BAN6420_Module_2_Assignment_Python_Code.ipynb`**: Jupyter Notebook with Python scripts for processing salary data and exporting employee details.
-2. **`Ruth_Nwawuzoh_BAN6420_Module_2_Assignment_R_Code.R`**: R script to unzip a folder and display its content.
-3. **`Total.csv`**: Sample salary dataset used in the project.
-4. **README.md**: Instructions on how to use the project files.
+1. **`Salary_Function_Assignment.zip`**: Consists of the README, Salary dataset, Python and R scrpts. Download and unzip to access all files.
+2. **`Ruth_Nwawuzoh_BAN6420_Module_2_Assignment_Python_Code.ipynb`**: Jupyter Notebook with Python scripts for processing salary data and exporting employee details.
+3. **`Ruth_Nwawuzoh_BAN6420_Module_2_Assignment_R_Code.R`**: R script to unzip a folder and display its content.
+4. **`Total.csv`**: Sample salary dataset used in the project.
+5. **README.md**: Instructions on how to use the project files.
 
 ## How to Run the Project
 
